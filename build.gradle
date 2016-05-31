@@ -5,7 +5,7 @@ plugins {
 description = "JPI Test plug-in"
 
 jenkinsPlugin {
-    coreVersion = '1.609.3'
+    coreVersion = '1.651.2'
     displayName = 'JPI Test plug-in'
 }
 
